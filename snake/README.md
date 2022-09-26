@@ -1,6 +1,6 @@
 # snake
 
-This template should help get you started developing with Vue 3 in Vite.
+简易贪吃蛇
 
 ## Recommended IDE Setup
 
